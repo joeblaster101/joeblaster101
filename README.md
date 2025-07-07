@@ -16,9 +16,9 @@ I’m running Nobara Linux because Windows burned me for the last time around th
 
 ## languages
 
-C++ = I might not be able to tell you everything out loud, but I can do most things needed in the language.
-rust = I’m not as strong with C++; I can still do some things in it.
-C# = This isn’t one I’ve done much in, but one I want to learn.
+- C++ = I might not be able to tell you everything out loud, but I can do most things needed in the language.
+- rust = I’m not as strong with C++; I can still do some things in it.
+- C# = This isn’t one I’ve done much in, but one I want to learn.
 
 ## education
 
@@ -26,6 +26,6 @@ I’ve graduated from Stoke on Trent College with a Level 3 Diploma in Games Des
 
 ## where to reach me
 
-Email is a good way to reach me: joe.phillips935@proton.me or joe.phillips935@gmail.com (I’m still deglooming, so either will work).
-You can find me on Twitter – I don’t post anything, but I lurk in comments and DMs, and they’re open. [link](https://x.com/JosephP46604547)
-Or, if it’s about my configs or coding stuff, open an issue on this repo, and I’ll answer it.
+- Email is a good way to reach me: joe.phillips935@proton.me or joe.phillips935@gmail.com (I’m still deglooming, so either will work).
+- You can find me on Twitter – I don’t post anything, but I lurk in comments and DMs, and they’re open. [link](https://x.com/JosephP46604547)
+- Or, if it’s about my configs or coding stuff, open an issue on this repo, and I’ll answer it.
