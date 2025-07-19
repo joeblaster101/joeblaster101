@@ -21,6 +21,7 @@ I’m running Nobara Linux because Windows burned me for the last time around th
 - C++ = I might not be able to tell you everything out loud, but I can do most things needed in the language.
 - rust = I’m not as strong with C++; I can still do some things in it.
 - C# = This isn’t one I’ve done much in, but one I want to learn.
+- Gdscript = I won't say i'm all that good but i'm definly good enough to make something and I love godot I think its an amazing enigne.
 
 ## education
 
