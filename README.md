@@ -6,7 +6,9 @@ I’m Willow, formerly Joe/Joseph. I came out as trans 🏳️‍⚧️ in June 
 
 ## Project
 
-I don’t have public projects, but privately I’m working on a game with a good friend – with me being the main/sole programmer and them being the designer.
+I have a bunch of projects in vareus states of function publicly. Don't expect much from them they are collage projects and i didn't always leave them in a perfect or even working order you have been worned. There also mostly gray box I am a programmer after all. 
+
+I’m working on a game with a good friend – with me being the main/sole programmer and them being the designer.
 
 I’m also working on learning the Vulkan rendering API, to hopefully make an engine out of it. I don’t currently have a goal other than to make it render something I’ll figure it out.
 
