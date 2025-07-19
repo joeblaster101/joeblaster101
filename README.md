@@ -25,7 +25,7 @@ I’m running Nobara Linux because Windows burned me for the last time around th
 
 ## education
 
-I’ve graduated from Stoke on Trent College with a Level 3 Diploma in Games Design and Programming, and I’m hoping to go to the Sea Institute to get my degree in Games Programming.
+I’ve graduated from Stoke on Trent College with a Level 3 Diploma in Games Design and Programming.
 
 ## where to reach me
 
